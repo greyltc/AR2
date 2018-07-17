@@ -14,7 +14,7 @@ The AR2 is a small desktop robot that is modeled similar to an industrial 6 axis
 
 This project includes:
 
-- Bill of materials and instructions
+- Bi of materials
 - CAD files to 3D print components to build the robot
 - Arduino sketch for stepper driver control
 - Software to program and operate robot
